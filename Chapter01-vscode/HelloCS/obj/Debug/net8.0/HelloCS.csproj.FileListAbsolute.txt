@@ -1,0 +1,15 @@
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.deps.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.runtimeconfig.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/bin/Debug/net8.0/HelloCS.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfoInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfo.cs
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.sourcelink.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/refint/HelloCS.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/HelloCS.genruntimeconfig.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter01-vscode/HelloCS/obj/Debug/net8.0/ref/HelloCS.dll

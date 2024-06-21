@@ -1,0 +1,15 @@
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfo.cs
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.csproj.CoreCompileInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.sourcelink.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.deps.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.runtimeconfig.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/bin/Debug/net8.0/Vocabulary.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/refint/Vocabulary.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.genruntimeconfig.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/ref/Vocabulary.dll

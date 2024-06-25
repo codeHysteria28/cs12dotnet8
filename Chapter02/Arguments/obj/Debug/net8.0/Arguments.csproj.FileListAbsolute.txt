@@ -1,0 +1,15 @@
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments.deps.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments.runtimeconfig.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfoInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfo.cs
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.sourcelink.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/refint/Arguments.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.genruntimeconfig.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/ref/Arguments.dll

@@ -1,0 +1,15 @@
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.deps.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.runtimeconfig.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.AssemblyInfoInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.AssemblyInfo.cs
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.sourcelink.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/refint/AsyncConsole.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.genruntimeconfig.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/ref/AsyncConsole.dll

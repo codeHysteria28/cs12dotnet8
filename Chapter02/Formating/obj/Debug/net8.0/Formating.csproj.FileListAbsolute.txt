@@ -1,0 +1,15 @@
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/bin/Debug/net8.0/Formating
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/bin/Debug/net8.0/Formating.deps.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/bin/Debug/net8.0/Formating.runtimeconfig.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/bin/Debug/net8.0/Formating.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/bin/Debug/net8.0/Formating.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/Formating.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/Formating.AssemblyInfoInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/Formating.AssemblyInfo.cs
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/Formating.csproj.CoreCompileInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/Formating.sourcelink.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/Formating.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/refint/Formating.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/Formating.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/Formating.genruntimeconfig.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter02/Formating/obj/Debug/net8.0/ref/Formating.dll

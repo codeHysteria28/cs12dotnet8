@@ -1,0 +1,15 @@
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/bin/Debug/net8.0/IterationStatements
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/bin/Debug/net8.0/IterationStatements.deps.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/bin/Debug/net8.0/IterationStatements.runtimeconfig.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/bin/Debug/net8.0/IterationStatements.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/bin/Debug/net8.0/IterationStatements.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/IterationStatements.AssemblyInfo.cs
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/IterationStatements.sourcelink.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/IterationStatements.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/refint/IterationStatements.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/IterationStatements.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/IterationStatements.genruntimeconfig.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/IterationStatements/obj/Debug/net8.0/ref/IterationStatements.dll

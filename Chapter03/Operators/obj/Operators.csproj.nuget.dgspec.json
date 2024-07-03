@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bbuna\\Desktop\\cs12dotnet8\\Chapter03\\Operators\\Operators.csproj": {}
+    "/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Operators/Operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bbuna\\Desktop\\cs12dotnet8\\Chapter03\\Operators\\Operators.csproj": {
+    "/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Operators/Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bbuna\\Desktop\\cs12dotnet8\\Chapter03\\Operators\\Operators.csproj",
+        "projectUniqueName": "/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Operators/Operators.csproj",
         "projectName": "Operators",
-        "projectPath": "C:\\Users\\bbuna\\Desktop\\cs12dotnet8\\Chapter03\\Operators\\Operators.csproj",
-        "packagesPath": "C:\\Users\\bbuna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bbuna\\Desktop\\cs12dotnet8\\Chapter03\\Operators\\obj\\",
+        "projectPath": "/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Operators/Operators.csproj",
+        "packagesPath": "/Users/wizcat/.nuget/packages/",
+        "outputPath": "/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Operators/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bbuna\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/wizcat/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

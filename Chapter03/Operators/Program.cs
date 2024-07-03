@@ -56,3 +56,20 @@ WriteLine($"q & DoStuff() = {q & DoStuff()}");
 WriteLine();
 WriteLine($"s && DoStuff() = {s && DoStuff()}");
 WriteLine($"q && DoStuff() = {q && DoStuff()}");
+
+// * bitwise and binary shift operators
+
+WriteLine();
+int x = 10;
+int y = 6;
+WriteLine($"Expression | Decimal | Binary");
+WriteLine($"-----------------------------");
+WriteLine($"x          | {x, 7} | {x:B8}");
+WriteLine($"y          | {y, 7} | {x:B8}");
+WriteLine($"x & y      | {x & y, 7} | {x & y:B8}");
+WriteLine($"x | y      | {x | y, 7} | {x | y:B8}");
+WriteLine($"x ^ y      | {x ^ y, 7} | {x ^ y:B8}");
+
+// * miscellaneous operators
+// ? nameof and sizeof when working with types
+

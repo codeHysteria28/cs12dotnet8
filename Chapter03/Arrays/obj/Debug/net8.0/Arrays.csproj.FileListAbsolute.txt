@@ -1,0 +1,15 @@
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/bin/Debug/net8.0/Arrays
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/bin/Debug/net8.0/Arrays.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/bin/Debug/net8.0/Arrays.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/Arrays.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/Arrays.pdb
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/Users/wizcat/Desktop/cs12dotnet8/Chapter03/Arrays/obj/Debug/net8.0/ref/Arrays.dll

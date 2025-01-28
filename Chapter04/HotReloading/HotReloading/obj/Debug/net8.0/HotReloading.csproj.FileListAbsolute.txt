@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\bin\Debug\net8.0\HotReloading.exe
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\bin\Debug\net8.0\HotReloading.deps.json
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\bin\Debug\net8.0\HotReloading.runtimeconfig.json
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\bin\Debug\net8.0\HotReloading.dll
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\bin\Debug\net8.0\HotReloading.pdb
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\HotReloading.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\HotReloading.AssemblyInfo.cs
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\HotReloading.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\HotReloading.sourcelink.json
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\HotReloading.dll
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\refint\HotReloading.dll
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\HotReloading.pdb
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\HotReloading.genruntimeconfig.cache
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\HotReloading\HotReloading\obj\Debug\net8.0\ref\HotReloading.dll

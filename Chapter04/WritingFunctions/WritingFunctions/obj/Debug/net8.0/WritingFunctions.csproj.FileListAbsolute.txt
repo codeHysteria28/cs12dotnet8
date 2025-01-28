@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\bin\Debug\net8.0\WritingFunctions.exe
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\bin\Debug\net8.0\WritingFunctions.deps.json
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\bin\Debug\net8.0\WritingFunctions.runtimeconfig.json
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\bin\Debug\net8.0\WritingFunctions.dll
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\bin\Debug\net8.0\WritingFunctions.pdb
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\WritingFunctions.AssemblyInfo.cs
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\WritingFunctions.sourcelink.json
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\WritingFunctions.dll
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\refint\WritingFunctions.dll
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\WritingFunctions.pdb
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\WritingFunctions.genruntimeconfig.cache
+C:\Users\User\Desktop\cs12dotnet8\Chapter04\WritingFunctions\WritingFunctions\obj\Debug\net8.0\ref\WritingFunctions.dll

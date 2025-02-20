@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter04\\CalculatorLibUnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75BD0182-F10C-4F38-9BFB-47A9F93DD12B}|..\\CalculatorLib\\CalculatorLib\\CalculatorLib.csproj|c:\\users\\user\\desktop\\cs12dotnet8\\chapter04\\calculatorlib\\calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418D3F91-4C15-478E-A367-0B0AFE90639D}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|c:\\users\\user\\desktop\\cs12dotnet8\\chapter04\\calculatorlibunittests\\calculatorlibunittests\\calculatorunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418D3F91-4C15-478E-A367-0B0AFE90639D}|CalculatorLibUnitTests\\CalculatorLibUnitTests.csproj|solutionrelative:calculatorlibunittests\\calculatorunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests\\CalculatorUnitTests.cs",
+              "RelativeDocumentMoniker": "CalculatorLibUnitTests\\CalculatorUnitTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter04\\CalculatorLibUnitTests\\CalculatorLibUnitTests\\CalculatorUnitTests.cs",
+              "RelativeToolTip": "CalculatorLibUnitTests\\CalculatorUnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:25:03.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter04\\CalculatorLib\\CalculatorLib\\Calculator.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorLib\\CalculatorLib\\Calculator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter04\\CalculatorLib\\CalculatorLib\\Calculator.cs",
+              "RelativeToolTip": "..\\CalculatorLib\\CalculatorLib\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:24:21.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

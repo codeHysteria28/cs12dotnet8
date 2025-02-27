@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Chapter02\\AsyncConsole",
+    "\\Chapter02\\Ch02Ex03Numbers",
+    "\\Chapter02\\Formating",
+    "\\Chapter04"
   ],
-  "SelectedNode": "\\WritingFunctions.sln",
+  "SelectedNode": "\\Chapter04",
   "PreviewInSolutionExplorer": false
 }

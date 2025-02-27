@@ -1,0 +1,11 @@
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\bin\Debug\netstandard2.0\classlib.deps.json
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\bin\Debug\netstandard2.0\classlib.dll
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\bin\Debug\netstandard2.0\classlib.pdb
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\obj\Debug\netstandard2.0\classlib.csproj.AssemblyReference.cache
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\obj\Debug\netstandard2.0\classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\obj\Debug\netstandard2.0\classlib.AssemblyInfoInputs.cache
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\obj\Debug\netstandard2.0\classlib.AssemblyInfo.cs
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\obj\Debug\netstandard2.0\classlib.csproj.CoreCompileInputs.cache
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\obj\Debug\netstandard2.0\classlib.sourcelink.json
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\obj\Debug\netstandard2.0\classlib.dll
+C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\obj\Debug\netstandard2.0\classlib.pdb

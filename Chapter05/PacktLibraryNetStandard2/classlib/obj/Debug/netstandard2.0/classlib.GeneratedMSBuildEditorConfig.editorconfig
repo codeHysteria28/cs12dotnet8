@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = classlib
-build_property.ProjectDir = C:\Users\bbuna\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\
+build_property.ProjectDir = C:\Users\User\Desktop\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\classlib\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

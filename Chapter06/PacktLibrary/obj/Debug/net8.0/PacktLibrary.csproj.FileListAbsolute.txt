@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\bin\Debug\net8.0\PacktLibrary.deps.json
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\bin\Debug\net8.0\PacktLibrary.dll
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\bin\Debug\net8.0\PacktLibrary.pdb
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.sourcelink.json
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.dll
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\obj\Debug\net8.0\refint\PacktLibrary.dll
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\obj\Debug\net8.0\PacktLibrary.pdb
+C:\Users\User\Desktop\cs12dotnet8\Chapter06\PacktLibrary\obj\Debug\net8.0\ref\PacktLibrary.dll

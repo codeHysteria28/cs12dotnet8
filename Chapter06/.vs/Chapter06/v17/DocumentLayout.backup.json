@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2EA3A0-73D7-4AF0-B987-F145B0823D79}|PacktLibrary\\PacktLibrary.csproj|c:\\users\\user\\desktop\\cs12dotnet8\\chapter06\\packtlibrary\\packtlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD2EA3A0-73D7-4AF0-B987-F145B0823D79}|PacktLibrary\\PacktLibrary.csproj|solutionrelative:packtlibrary\\packtlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9A9DE0-B93A-4CDA-8F23-BFE0188AC901}|PeopleApp\\PeopleApp.csproj|c:\\users\\user\\desktop\\cs12dotnet8\\chapter06\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9A9DE0-B93A-4CDA-8F23-BFE0188AC901}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2EA3A0-73D7-4AF0-B987-F145B0823D79}|PacktLibrary\\PacktLibrary.csproj|c:\\users\\user\\desktop\\cs12dotnet8\\chapter06\\packtlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2EA3A0-73D7-4AF0-B987-F145B0823D79}|PacktLibrary\\PacktLibrary.csproj|solutionrelative:packtlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacktLibrary",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+              "RelativeDocumentMoniker": "PacktLibrary\\PacktLibrary.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+              "RelativeToolTip": "PacktLibrary\\PacktLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T18:40:58.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeToolTip": "PeopleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:38:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter06\\PacktLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "PacktLibrary\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cs12dotnet8\\Chapter06\\PacktLibrary\\Person.cs",
+              "RelativeToolTip": "PacktLibrary\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:32:48.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
